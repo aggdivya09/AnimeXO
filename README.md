@@ -94,4 +94,38 @@ AnimeXO focuses heavily on visual design and user experience.
 This application combines the classic Tic-Tac-Toe experience with anime-inspired visuals, unlockable character themes, intelligent AI gameplay, and a modern responsive interface.
 
 ---
+## ⚙️ Technologies Used
+
+- Python
+- Tkinter
+- Pillow (PIL)
+- JSON
+- Minimax Algorithm
+
+---
+
+## 💡 Key Learnings
+
+- Building desktop GUI applications using Tkinter
+- Creating responsive user interfaces
+- Implementing game logic in Python
+- Working with image assets using Pillow
+- Managing application state with JSON
+- Applying the Minimax Algorithm for AI gameplay
+- Designing unlockable game content systems
+- Dynamic theme management
+- Event-driven programming concepts
+- Creating scalable and maintainable Python projects
+
+---
+## Project Information
+
+Author : Developed by Divya Agarwal
+Mentor : Ritika Bisht Ma'am
+
+---
+## Contributions
+If you have ideas to make it better or find any issues, feel free to help! You can message, suggest changes, or add your own features. Let's grow and learn together 🚀
+
+
 
