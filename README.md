@@ -118,13 +118,13 @@ This application combines the classic Tic-Tac-Toe experience with anime-inspired
 - Creating scalable and maintainable Python projects
 
 ---
-## Project Information
+## 🚀 Project Information
 
 Author : Developed by Divya Agarwal
 Mentor : Ritika Bisht Ma'am
 
 ---
-## Contributions
+## 🤝 Contributions
 If you have ideas to make it better or find any issues, feel free to help! You can message, suggest changes, or add your own features. Let's grow and learn together 🚀
 
 
